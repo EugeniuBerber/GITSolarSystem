@@ -17,5 +17,11 @@ public class Main {
         fs.radius = "900000km";
         fs.maritalStatus = "Moazzam kone4no inogda sku4nii";
 
+        Planet1 astronaut = new Planet1();
+        astronaut.color= " White ";
+        astronaut.relashionshipStatus="maried";
+        astronaut.size = "XXL";
+
+
     }
 }
