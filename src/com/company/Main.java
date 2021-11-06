@@ -10,5 +10,12 @@ public class Main {
         andromeda.planet=2;
         andromeda.moon=4;
 
+        featureSun fs = new featureSun();
+        fs.color="RED";
+        fs.heat= "too hot";
+        fs.temp = "999999999999999";
+        fs.radius = "0.99";
+        fs.maritalStatus = "single";
+
     }
 }
