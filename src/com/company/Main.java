@@ -14,8 +14,8 @@ public class Main {
         fs.color="RED";
         fs.heat= "too hot";
         fs.temp = "999999999999999";
-        fs.radius = "0.99";
-        fs.maritalStatus = "single";
+        fs.radius = "900000km";
+        fs.maritalStatus = "Moazzam kone4no inogda sku4nii";
 
     }
 }
